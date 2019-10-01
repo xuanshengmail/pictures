@@ -174,3 +174,5 @@
 <div class="book-body" id="book_body" style="width:90%;display:block"> </div>
 <!--目录栏，设置占用宽度为20%可以根据实际情况设置-->
 <div  class="book-summary" id="category" style="width:20%;display:block" ></div>
+
+<script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js"></script>
